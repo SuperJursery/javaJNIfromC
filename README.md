@@ -1,0 +1,2 @@
+# javaJNIfromC
+JNI native pratice
